@@ -1,0 +1,5 @@
+.DS_Store
+/env
+.creds*
+__pycache__
+*.db
