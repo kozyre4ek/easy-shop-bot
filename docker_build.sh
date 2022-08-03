@@ -1,0 +1,1 @@
+docker build -t easy-shop-bot:1.0.0 .
